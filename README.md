@@ -76,7 +76,7 @@
 * [Startup Tools List](https://startuptoolslist.com) – `Discover tools to help launch and grow.
 
 ## 🎨 UI, Landing Page & Development Resources
-> Free and useful resources for building polished product interfaces, launch pages, websites, and developer experiences more quickly.
+> Useful resources for building polished product interfaces, launch pages, websites, and developer experiences more quickly.
 * [Startup components](https://shadcnspace.com/components/) Free and premium UI components, blocks, and templates for building polished React and Next.js products faster.
 * [Magic UI](https://magicui.design) – Free and open-source animated React components and effects built with TypeScript, Tailwind CSS, and Motion.
 * [Aceternity UI](https://ui.aceternity.com) – Modern React and Tailwind CSS components with animated backgrounds, cards, navigation, and landing page sections.

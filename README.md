@@ -73,7 +73,7 @@
 * [LaunchCaster](https://launchcaster.xyz) – Web3-native product launches.
 * [Carrd](https://carrd.co) – Quickly spin up a landing page for your launch.
 * [Substack](https://substack.com) – Build an audience and launch with a newsletter.
-* [Startup Tools List](https://startuptoolslist.com) – `Discover tools to help launch and grow.
+* [Startup Tools List](https://startuptoolslist.com) – Discover tools to help launch and grow.
 
 ## 🎨 UI, Landing Page & Development Resources
 > Useful resources for building polished product interfaces, launch pages, websites, and developer experiences more quickly.

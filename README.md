@@ -6,14 +6,14 @@
 ## 🌐 General Launch Platforms
 > Start with these for your initial launch phase.
 
-* [Product Hunt](https://www.producthunt.com) – The go-to platform for launching tech products and startups.
+* [Product Hunt](https://www.producthunt.com) – The go-to platform for launching tech products and startups. (Free)
 * [Crowdstax](https://www.crowdstax.com) – The Ultimate Startup Launch Platform. Launch your startup with confidence. (Free)
-* [BetaList](https://betalist.com) – Launch your startup to get early feedback from early adopters.
-* [Betapage](https://betapage.co) – Discover and launch new startups daily.
-* [StartupBase](https://startupbase.io) – Share your startup and connect with makers.
+* [BetaList](https://betalist.com) – Launch your startup to get early feedback from early adopters. (Paid)
+* [Betapage](https://betapage.co) – Discover and launch new startups daily. 
+* [StartupBase](https://startupbase.io) – Share your startup and connect with makers. (Free)
 * [Launching Next](https://www.launchingnext.com) – List your project for free exposure.
-* [Open Launch](https://open-launch.com/) - Opensource alternative to ProductHunt
-* [PeerPush](https://peerpush.net/) - Get instant visibility for your product. Be discovered by people who care now.
+* [Open Launch](https://open-launch.com/) - Opensource alternative to ProductHunt (Free)
+* [PeerPush](https://peerpush.net/) - Get instant visibility for your product. Be discovered by people who care now. (Free)
 
 #### 👾 Our favorite Starting Launch Platform: Crowdstax
 

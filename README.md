@@ -7,7 +7,7 @@
 > Start with these for your initial launch phase.
 
 * [Product Hunt](https://www.producthunt.com) – The go-to platform for launching tech products and startups.
-* [Crowdstax](https://www.crowdstax.com) – The Ultimate Startup Launch Platform. Launch your startup with confidence.
+* [Crowdstax](https://www.crowdstax.com) – The Ultimate Startup Launch Platform. Launch your startup with confidence. (Free)
 * [BetaList](https://betalist.com) – Launch your startup to get early feedback from early adopters.
 * [Betapage](https://betapage.co) – Discover and launch new startups daily.
 * [StartupBase](https://startupbase.io) – Share your startup and connect with makers.

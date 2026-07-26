@@ -18,8 +18,8 @@
 #### 👾 Our favorite Starting Launch Platform: Crowdstax
 
 > If you are building a startup, SaaS product, AI tool, web app, developer tool, or side project join entrepreneurs and builders using Crowdstax to discover new products, explore startup ideas, get featured in the homepage Launch Feed and newsletter, collect feedback and reviews, suggest alternatives, connect with the maker community, and keep gaining visibility long after launch week.
->* [Crowdstax](https://www.crowdstax.com/) Launch for free, or more premium options available.
->* [Submit your product](https://www.crowdstax.com/submit) Launch for free, with optional Pro and Sponsor upgrades for additional visibility.
+>* [Crowdstax](https://www.crowdstax.com/) Launch for free, with optional Pro and Sponsor upgrades for additional visibility.
+>* [Submit your product](https://www.crowdstax.com/submit) 
 >* [Browse current launches](https://www.crowdstax.com/products) 
 >* [Explore software alternatives](https://www.crowdstax.com/alternatives) - While submitting, add your product alternatives to be featured on /alternatives pages
 >* [Read the Launch Playbook](https://www.crowdstax.com/launch-playbook) - Guides to prepare a product page people can understand quickly.

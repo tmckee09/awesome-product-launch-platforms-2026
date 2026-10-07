@@ -55,6 +55,7 @@
 * [Futurepedia](https://futurepedia.wiki) – AI tools aggregator with launch listings.
 * [Productivity Directory](https://productivity.directory) – Find Productivity Tools
 * [Toolkitly](https://www.toolkitly.com) – Your Go-To Platform for Tech Tool Discussions, Innovations & Real-Time Updates!
+* [FalcoScan](https://falcoscan.com/submit) – Free listing for AI products, ranked among 7,000+ AI products across 29 markets. `(Free)`
 
 
 ---

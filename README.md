@@ -16,6 +16,7 @@
 * [Launching Next](https://www.launchingnext.com) – List your project for free exposure.
 * [Open Launch](https://open-launch.com/) - Opensource alternative to ProductHunt `(Free)`
 * [PeerPush](https://peerpush.net/) - Get instant visibility for your product. Be discovered by people who care now. `(Free)`
+* [MEDIAPRONET](https://mediapronet.com/) - Curated directory where founders list new startups, SaaS tools and indie products. `(Freemium)`
 
 #### 👾 Our favorite Starting Launch Platform: Crowdstax
 

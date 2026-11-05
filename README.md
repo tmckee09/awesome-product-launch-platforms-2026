@@ -50,6 +50,7 @@
 * [Altern](https://altern.ai) – AI product directory for makers.
 * [AI Directory](https://aidirectory.wiki) - The Best AI Tools List
 * [AI Dir](https://aidir.wiki) - First AI Directory of the world!
+* [MeetNewAI](https://meetnewai.com) – Free bilingual AI tools, AI games, and MCP servers directory organized by job-to-be-done.
 * [uNeed](https://uneed.best) – Discover and share AI tools.
 * [There’s An AI For That](https://theresanai.com) – Submit your AI product for discovery.
 * [Futurepedia](https://futurepedia.wiki) – AI tools aggregator with launch listings.
